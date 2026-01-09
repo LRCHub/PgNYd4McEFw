@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "終わらない世界で",
+  "base_artist": "DAOKO",
+  "createdAt": "2026-01-09T00:14:59.120543Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "終わらない世界で",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/01_終わらない世界で_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "終わらない世界で",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/02_終わらない世界で_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Owaranai Sekai de [終わらない世界で]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/03_Owaranai_Sekai_de_[終わらない世界で]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "終わらない世界で - Owaranai Sekaide",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/04_終わらない世界で_-_Owaranai_Sekaide_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Owaranai Sekai de [終わらない世界で]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/05_Owaranai_Sekai_de_[終わらない世界で]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DAOKO「終わらない世界で」MUSIC VIDEO",
+      "artist": "Daoko",
+      "has_synced": true,
+      "path": "select/06_DAOKO「終わらない世界で」MUSIC_VIDEO_Daoko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終わらない世界で",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/pl_01_終わらない世界で_DAOKO.txt"
+    }
+  ]
+}
